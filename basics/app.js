@@ -7,6 +7,12 @@ for (let index = 0; index < stdName.length; index++) {
     console.log(element)
 }
 
+// const stdData = {
+//     name: "John Doe",
+//     age: 21,
+//     course: "Computer Science"
+// }
 
-
+// const jsonData = JSON.stringify(stdData);
+// console.log(jsonData)
 // console.log(stdName)
